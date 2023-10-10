@@ -1,0 +1,22 @@
+header{
+	backdrop-filter: blur(30px);
+}
+
+.bgimage{
+	background-image: url("imgs/bg.jpg");
+	backgrond-size:cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+
+
+}
+
+
+.shadow-custom {
+    box-shadow: 0px 6px 6px rgba(255,255,255, 0.1);
+}
+
+.shadow-custom2 {
+    border-top: solid lightgray;
+}
+
