@@ -30,6 +30,7 @@ We have used data science technologies to make this project and also created a w
 Our project just requires you to input dimensions of the object and it would easily classify it as a rock or a mine. It can be used with technologies like SONAR with some slight modifications.
 
 Video presentation available - <a href="https://youtu.be/xnO65jDGpDU?si=WeiCQov4fMLiQXTX">here</a>
+
 Python Notebook available - <a href="https://github.com/VAMSIKRISHNA2210/Rocks-vs-Mines/blob/main/Mines_vs_Rocks_data_exploration_%20(1).ipynb">here</a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2 id="meet_the_team">
