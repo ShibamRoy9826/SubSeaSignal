@@ -29,6 +29,7 @@ This is the project repository for a project called "SubSeaSignal" in which we h
 We have used data science technologies to make this project and also created a wonderful website for it to publicaly avail it, anyone having access to internet can use it.
 Our project just requires you to input dimensions of the object and it would easily classify it as a rock or a mine. It can be used with technologies like SONAR with some slight modifications.
 
+
 Video presentation available - <a href="https://youtu.be/xnO65jDGpDU?si=WeiCQov4fMLiQXTX">here</a>
 
 Python Notebook available - <a href="https://github.com/VAMSIKRISHNA2210/Rocks-vs-Mines/blob/main/Mines_vs_Rocks_data_exploration_%20(1).ipynb">here</a>
